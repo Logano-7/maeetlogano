@@ -1,0 +1,33 @@
+[
+  {
+    "title": "SmallTalk",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "site": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Gerícht",
+    "imageSrc": "projects/restScreenshot.png",
+    "description": "A Figma design for a resturant website. UI designed for tablets and phones.",
+    "skills": ["React", "Figma"],
+    "site": "https://xn--gercht-5va.com/",
+    "source": "https://github.com/Logano-7/gerichtResturantDesign"
+  },
+  {
+    "title": "Hangman",
+    "imageSrc": "projects/hangmanScreenshot.png",
+    "description": "A Simple Hangman game made with React.ts.",
+    "skills": ["React", "TypeScript"],
+    "site": "https://hangman-ts.com/",
+    "source": "https://github.com/Logano-7/hangmanTS"
+  },
+  {
+    "title": "Blog (WIP)",
+    "imageSrc": "projects/blogScreenshot.png",
+    "description": "A Blog website with authentication and CRUD operations for posts. (Work in progress)",
+    "skills": ["React", "Express", "Node", "SCSS", "MySQL", "Cookies"],
+    "source": "https://github.com/Logano-7/logsblogs"
+  }
+]

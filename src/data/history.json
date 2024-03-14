@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "Freelance and Tutor",
+    "startDate": "Aug, 2021",
+    "endDate": "Present",
+    "experiences": ["Created websites for small businesses", "Tutored College and HS students in React and JS", "Developed a personal portfolio website", "Worked with many Figma designs"],
+    "imageSrc": "history/React.png"
+  }
+]
