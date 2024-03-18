@@ -29,7 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and implamented color theroy into my designs
+                I have designed multiple landing pages and implemented color theroy into my designs
               </p>
             </div>
           </li>
